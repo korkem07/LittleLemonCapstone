@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1990" viewBox="0 0 1100 1990">
+<rect width="1100" height="1990" fill="#eef1f1"/>
+<text x="115" y="78" fill="#202826" font-family="Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="1">LITTLE LEMON / HOME WIREFRAME</text>
+<text x="115" y="111" fill="#6b7273" font-family="Arial,sans-serif" font-size="18">Design phase · iOS Capstone · home screen layout</text>
+<rect x="103" y="148" width="894" height="1711" rx="54" fill="#ffffff" stroke="#2c3935" stroke-width="6"/>
+<rect x="126" y="169" width="848" height="1668" rx="34" fill="#ffffff"/>
+
+<text x="160" y="211" font-family="Arial,sans-serif" font-size="24" fill="#26312f" font-weight="700">9:41</text>
+<rect x="832" y="187" width="62" height="26" rx="5" fill="none" stroke="#7e8b88" stroke-width="2"/>
+<rect x="899" y="192" width="8" height="16" rx="2" fill="#7e8b88" stroke="#7e8b88" stroke-width="1"/>
+<line x1="126" y1="233" x2="974" y2="233" stroke="#8f9997" stroke-width="2"/>
+<rect x="155" y="256" width="51" height="51" rx="26" fill="#f3f3f3" stroke="#6b7975" stroke-width="2"/>
+<text x="230" y="289" font-family="Arial,sans-serif" font-size="32" fill="#26312f" font-weight="700">little lemon</text>
+<rect x="895" y="260" width="54" height="54" rx="27" fill="#f5f5f5" stroke="#6b7975" stroke-width="2"/>
+<text x="922" y="297" font-family="Arial,sans-serif" font-size="24" fill="#26312f" font-weight="700" text-anchor="middle">P</text>
+<line x1="126" y1="332" x2="974" y2="332" stroke="#8f9997" stroke-width="2"/>
+<text x="148" y="354" font-family="Arial,sans-serif" font-size="17" fill="#778481" font-weight="400">HEADER</text>
+<rect x="145" y="380" width="811" height="425" rx="18" fill="#f6f7f6" stroke="#63716e" stroke-width="3"/>
+<text x="165" y="409" font-family="Arial,sans-serif" font-size="17" fill="#778481" font-weight="400">HERO</text>
+<text x="169" y="455" font-family="Arial,sans-serif" font-size="44" fill="#26312f" font-weight="700">Little Lemon</text>
+<text x="169" y="493" font-family="Arial,sans-serif" font-size="28" fill="#26312f" font-weight="700">Chicago</text>
+<text x="169" y="536" font-family="Arial,sans-serif" font-size="23" fill="#26312f" font-weight="400">Fresh Mediterranean flavors,</text>
+<text x="169" y="568" font-family="Arial,sans-serif" font-size="23" fill="#26312f" font-weight="400">served with love every day.</text>
+<rect x="680" y="430" width="248" height="206" rx="12" fill="#e6e9e8" stroke="#9da5a2" stroke-width="2"/>
+<line x1="680" y1="430" x2="928" y2="636" stroke="#8f9997" stroke-width="2"/>
+<line x1="928" y1="430" x2="680" y2="636" stroke="#8f9997" stroke-width="2"/>
+<text x="767" y="537" font-family="Arial,sans-serif" font-size="17" fill="#778481" font-weight="400">FOOD IMAGE</text>
+<rect x="168" y="663" width="758" height="102" rx="14" fill="#fff" stroke="#7d8986" stroke-width="2"/>
+<rect x="192" y="694" width="30" height="30" rx="15" fill="none" stroke="#71807c" stroke-width="3"/>
+<line x1="216" y1="718" x2="236" y2="735" stroke="#71807c" stroke-width="3"/>
+<text x="255" y="723" font-family="Arial,sans-serif" font-size="26" fill="#7d8986" font-weight="400">Search dishes...</text>
+<text x="152" y="845" font-family="Arial,sans-serif" font-size="17" fill="#778481" font-weight="400">MENU BREAKDOWN</text>
+<text x="151" y="900" font-family="Arial,sans-serif" font-size="29" fill="#26312f" font-weight="700">ORDER FOR DELIVERY</text>
+<rect x="151" y="927" width="124" height="65" rx="30" fill="#dfe4e2" stroke="#73807c" stroke-width="2"/>
+<text x="213" y="969" font-family="Arial,sans-serif" font-size="21" fill="#26312f" font-weight="700" text-anchor="middle">All</text>
+<rect x="287" y="927" width="162" height="65" rx="30" fill="#fff" stroke="#73807c" stroke-width="2"/>
+<text x="368" y="969" font-family="Arial,sans-serif" font-size="21" fill="#26312f" font-weight="400" text-anchor="middle">Starters</text>
+<rect x="461" y="927" width="145" height="65" rx="30" fill="#fff" stroke="#73807c" stroke-width="2"/>
+<text x="533" y="969" font-family="Arial,sans-serif" font-size="21" fill="#26312f" font-weight="400" text-anchor="middle">Mains</text>
+<rect x="618" y="927" width="169" height="65" rx="30" fill="#fff" stroke="#73807c" stroke-width="2"/>
+<text x="702" y="969" font-family="Arial,sans-serif" font-size="21" fill="#26312f" font-weight="400" text-anchor="middle">Desserts</text>
+<rect x="799" y="927" width="150" height="65" rx="30" fill="#fff" stroke="#73807c" stroke-width="2"/>
+<text x="874" y="969" font-family="Arial,sans-serif" font-size="21" fill="#26312f" font-weight="400" text-anchor="middle">Drinks</text>
+<line x1="148" y1="1021" x2="951" y2="1021" stroke="#8f9997" stroke-width="2"/>
+<text x="151" y="1062" font-family="Arial,sans-serif" font-size="17" fill="#778481" font-weight="400">FOOD MENU LIST</text>
+<text x="151" y="1110" font-family="Arial,sans-serif" font-size="33" fill="#26312f" font-weight="700">Our menu</text>
+<text x="158" y="1184" font-family="Arial,sans-serif" font-size="27" fill="#26312f" font-weight="700">Greek Salad</text>
+<rect x="157" y="1198" width="340" height="12" rx="6" fill="#e1e5e3" stroke="#e1e5e3" stroke-width="0"/>
+<rect x="157" y="1221" width="296" height="11" rx="6" fill="#e1e5e3" stroke="#e1e5e3" stroke-width="0"/>
+<text x="158" y="1266" font-family="Arial,sans-serif" font-size="25" fill="#26312f" font-weight="700">$10.00</text>
+<rect x="785" y="1151" width="151" height="125" rx="12" fill="#e8ebea" stroke="#7d8986" stroke-width="2"/>
+<line x1="785" y1="1151" x2="936" y2="1276" stroke="#8f9997" stroke-width="2"/>
+<line x1="936" y1="1151" x2="785" y2="1276" stroke="#8f9997" stroke-width="2"/>
+<line x1="154" y1="1294" x2="939" y2="1294" stroke="#d0d6d4" stroke-width="2"/>
+<text x="158" y="1348" font-family="Arial,sans-serif" font-size="27" fill="#26312f" font-weight="700">Bruschetta</text>
+<rect x="157" y="1362" width="340" height="12" rx="6" fill="#e1e5e3" stroke="#e1e5e3" stroke-width="0"/>
+<rect x="157" y="1385" width="296" height="11" rx="6" fill="#e1e5e3" stroke="#e1e5e3" stroke-width="0"/>
+<text x="158" y="1430" font-family="Arial,sans-serif" font-size="25" fill="#26312f" font-weight="700">$10.00</text>
+<rect x="785" y="1315" width="151" height="125" rx="12" fill="#e8ebea" stroke="#7d8986" stroke-width="2"/>
+<line x1="785" y1="1315" x2="936" y2="1440" stroke="#8f9997" stroke-width="2"/>
+<line x1="936" y1="1315" x2="785" y2="1440" stroke="#8f9997" stroke-width="2"/>
+<line x1="154" y1="1458" x2="939" y2="1458" stroke="#d0d6d4" stroke-width="2"/>
+<text x="158" y="1512" font-family="Arial,sans-serif" font-size="27" fill="#26312f" font-weight="700">Grilled Fish</text>
+<rect x="157" y="1526" width="340" height="12" rx="6" fill="#e1e5e3" stroke="#e1e5e3" stroke-width="0"/>
+<rect x="157" y="1549" width="296" height="11" rx="6" fill="#e1e5e3" stroke="#e1e5e3" stroke-width="0"/>
+<text x="158" y="1594" font-family="Arial,sans-serif" font-size="25" fill="#26312f" font-weight="700">$10.00</text>
+<rect x="785" y="1479" width="151" height="125" rx="12" fill="#e8ebea" stroke="#7d8986" stroke-width="2"/>
+<line x1="785" y1="1479" x2="936" y2="1604" stroke="#8f9997" stroke-width="2"/>
+<line x1="936" y1="1479" x2="785" y2="1604" stroke="#8f9997" stroke-width="2"/>
+<line x1="154" y1="1622" x2="939" y2="1622" stroke="#d0d6d4" stroke-width="2"/>
+<text x="158" y="1676" font-family="Arial,sans-serif" font-size="27" fill="#26312f" font-weight="700">Pasta</text>
+<rect x="157" y="1690" width="340" height="12" rx="6" fill="#e1e5e3" stroke="#e1e5e3" stroke-width="0"/>
+<rect x="157" y="1713" width="296" height="11" rx="6" fill="#e1e5e3" stroke="#e1e5e3" stroke-width="0"/>
+<text x="158" y="1758" font-family="Arial,sans-serif" font-size="25" fill="#26312f" font-weight="700">$10.00</text>
+<rect x="785" y="1643" width="151" height="125" rx="12" fill="#e8ebea" stroke="#7d8986" stroke-width="2"/>
+<line x1="785" y1="1643" x2="936" y2="1768" stroke="#8f9997" stroke-width="2"/>
+<line x1="936" y1="1643" x2="785" y2="1768" stroke="#8f9997" stroke-width="2"/>
+<text x="110" y="1933" font-family="Arial,sans-serif" font-size="19" fill="#7c8885" font-weight="400">FRAME: Home Screen</text>
+<text x="990" y="1933" font-family="Arial,sans-serif" font-size="19" fill="#7c8885" font-weight="400" text-anchor="end">WIRE / 01</text>
+</svg>
