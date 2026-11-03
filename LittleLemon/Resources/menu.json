@@ -1,0 +1,44 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Greek Salad",
+      "description": "Crisp greens, cucumber, feta, tomatoes, olives and our house dressing.",
+      "price": "10.00",
+      "image": "https://raw.githubusercontent.com/Meta-Mobile-Developer-PC/Working-With-Data-API/main/images/greekSalad.jpg",
+      "category": "starters"
+    },
+    {
+      "id": 2,
+      "title": "Lemon Dessert",
+      "description": "Homemade lemon ricotta cake with a little sunshine in every bite.",
+      "price": "10.00",
+      "image": "https://raw.githubusercontent.com/Meta-Mobile-Developer-PC/Working-With-Data-API/main/images/lemonDessert%202.jpg",
+      "category": "desserts"
+    },
+    {
+      "id": 3,
+      "title": "Grilled Fish",
+      "description": "Tender fish with fresh herbs, lemon and seasonal vegetables.",
+      "price": "10.00",
+      "image": "https://raw.githubusercontent.com/Meta-Mobile-Developer-PC/Working-With-Data-API/main/images/grilledFish.jpg",
+      "category": "mains"
+    },
+    {
+      "id": 4,
+      "title": "Pasta",
+      "description": "Penne with roasted eggplant, cherry tomatoes, basil and ricotta.",
+      "price": "10.00",
+      "image": "https://raw.githubusercontent.com/Meta-Mobile-Developer-PC/Working-With-Data-API/main/images/pasta.jpg",
+      "category": "mains"
+    },
+    {
+      "id": 5,
+      "title": "Bruschetta",
+      "description": "Toasted bread with garlic, ripe tomatoes, herbs and olive oil.",
+      "price": "10.00",
+      "image": "https://raw.githubusercontent.com/Meta-Mobile-Developer-PC/Working-With-Data-API/main/images/bruschetta.jpg",
+      "category": "starters"
+    }
+  ]
+}
